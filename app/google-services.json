@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "222433305923",
+    "firebase_url": "https://recadots.firebaseio.com",
+    "project_id": "recadots",
+    "storage_bucket": "recadots.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222433305923:android:77d065f0529d2c97d83bf6",
+        "android_client_info": {
+          "package_name": "com.uisrael.recadots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222433305923-rdj96tpocgn4ts1kosht2m2madeikg3t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uisrael.recadots",
+            "certificate_hash": "1137f3ded3d965c05bd783b9b0b49ac5436cfa5b"
+          }
+        },
+        {
+          "client_id": "222433305923-kgr4ssilqp67mm8sjo2l01qgdd5vd8o1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHogIVytT_Cq7jyvoeQY3ZBYBzKJMTodY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222433305923-kgr4ssilqp67mm8sjo2l01qgdd5vd8o1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
